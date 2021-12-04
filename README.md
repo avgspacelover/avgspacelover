@@ -127,7 +127,7 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@antariksh&compact=True"/>
 </a> -->
 <br>
-<hr>
+
 
 <h2 align='center'> Profile </h2>
 <hr>
@@ -137,8 +137,8 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 
 
 
-<br>
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=antariksh17&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=antariksh17&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF(https://git.io/akshay2211&hide_border=true)
 
 
 <br>
