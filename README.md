@@ -37,7 +37,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Golang](https://img.shields.io/badge/Golang-00599C?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-900C3F?style=for-the-badge&logo=go&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-FFC286?style=for-the-badge&logo=typescript&logoColor=3366cc)
 <br>
 
