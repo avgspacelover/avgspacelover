@@ -79,10 +79,10 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![Redis](https://img.shields.io/badge/Redis-678983?style=for-the-badge&logo=redis&logoColor=181D31) 
 ![Airflow](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
 ![AWS](https://img.shields.io/badge/AWS-678983?style=for-the-badge&logo=aws&logoColor=181D31) 
-![Docker](https://img.shields.io/badge/Docker-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
-![Kafka](https://img.shields.io/badge/Kafka-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
+![Docker](https://img.shields.io/badge/Docker-678983?style=for-the-badge&logo=docker&logoColor=181D31) 
+![Kafka](https://img.shields.io/badge/Kafka-678983?style=for-the-badge&logo=kafka&logoColor=181D31) 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=spark&logoColor=181D31) 
-![Hadoop](https://img.shields.io/badge/Hadoop-678983?style=for-the-badge&logo=tableau&logoColor=181D31) 
+![Hadoop](https://img.shields.io/badge/Hadoop-678983?style=for-the-badge&logo=hadoop&logoColor=181D31) 
 ![Tableau](https://img.shields.io/badge/Tableau-678983?style=for-the-badge&logo=tableau&logoColor=181D31) 
 
 
