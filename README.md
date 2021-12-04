@@ -90,7 +90,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-00909E?style=for-the-badge&logo=jira&logoColor=181D31) 
-![bitbucket](https://img.shields.io/badge/Git_Bucket-064420?style=for-the-badge&logo=git%20bucket&logoColor=181D31) 
+![bitbucket](https://img.shields.io/badge/BitBucket-064420?style=for-the-badge&logo=Bitbucket&logoColor=181D31) 
 
 <!--
 https://simpleicons.org/?q=apache
