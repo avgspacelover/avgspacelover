@@ -3,12 +3,12 @@
 </div>
 
 <h1 align='center'>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antariksh17.antariksh17) -->
-
-</p>
-<div align='center' size='20px'> Hi!
+<div align='center' size='20px'>
+<p>
+Hi!
 I am a 21' Mechanical engineering gradute who pivoted to Computer science out of pure interest. My intersts mainly lie in
 - Web Development
 - Data Engineering
@@ -20,7 +20,7 @@ I am a 21' Mechanical engineering gradute who pivoted to Computer science out of
 <p>
 I am trying and have tried to tangentially show my expertise and skills in my interested technologies by breaking down my efforts into pure metrics.
  You can take a look at my <a href="">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
-</p
+ </p>
 
 </div>
 
