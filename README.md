@@ -137,9 +137,7 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 
 
 
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=antariksh17&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF(https://git.io/akshay2211&hide_border=true)
-
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=antariksh17&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)]
 
 <br>
 <p align="left">
