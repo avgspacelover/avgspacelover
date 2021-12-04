@@ -32,9 +32,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Golang](https://img.shields.io/badge/Golang-00599C?style=for-the-badge&logo=go&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-FFC286?style=for-the-badge&logo=typescript&logoColor=3366cc)
-
-
-
+<br>
 
 ### 🌐 Web Development Technologies
 
@@ -57,13 +55,13 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![GraphQl](https://img.shields.io/badge/GraphQl-055052?style=for-the-badge&logo=graphql&logoColor=white)
 ![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-A7C4BC?style=for-the-badge&logo=swr&logoColor=white)
-
+<br>
 ### ✏️ Design Technologies
 ![Figma](https://img.shields.io/badge/Figma-D1DBBD?style=for-the-badge&logo=figma&logoColor=orange)
 ![balasamiq](https://img.shields.io/badge/Balasamiq-F24E1E?style=for-the-badge&logo=balasamiq&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-854836?style=for-the-badge&logo=invision&logoColor=white)
 ![Marvel](https://img.shields.io/badge/Marvel-83142C?style=for-the-badge&logo=marvel&logoColor=white)
-
+<br>
 ### 📈 Data & Database Technologies
 
 ![MS Excel](https://img.shields.io/badge/MS_Excel-196B69?style=for-the-badge&logo=microsoft%20excel&logoColor=61DAFB)
@@ -84,7 +82,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=Apache%20Spark&logoColor=181D31) 
 ![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=hadoop&logoColor=181D31) 
 ![Tableau](https://img.shields.io/badge/Tableau-2BB3C0?style=for-the-badge&logo=tableau&logoColor=181D31) 
-
+<br>
 ### 🛠️ Workflow Technologies
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -100,12 +98,6 @@ https://colorhunt.co/palettes/random
 https://shields.io/
 -->
 
-
-
-
-
-
-
 <!--
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -113,17 +105,14 @@ https://shields.io/
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 -->
-
-
-
-
-
+<br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<p align='center'>
 <a href = 'https://www.linkedin.com/in/antariksh17'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/antariksh017'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://antariksh-17.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/antariksh17'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
+</p>
 
 <!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/antariksh17/github-readme-stats">
