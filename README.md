@@ -84,8 +84,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=antariksh17&theme=prussian&hide_border=true" />
 </p>
 <br>
-
-## Watch my contribution graph get eaten by the snake 🐍
+<hr>
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
