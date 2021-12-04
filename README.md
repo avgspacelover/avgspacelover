@@ -69,7 +69,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![MS Excel](https://img.shields.io/badge/MS_Excel-196B69?style=for-the-badge&logo=microsoft%20excel&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-F95959?style=for-the-badge&logo=mysql&logoColor=181D31) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-064420?style=for-the-badge&logo=mongodb&logoColor=181D31) 
-![Cassandra](https://img.shields.io/badge/Cassandra-A9C52F?style=for-the-badge&logo=cassandra&logoColor=181D31) 
+![Cassandra](https://img.shields.io/badge/Cassandra-A9C52F?style=for-the-badge&logo=Apache%20Cassandra&logoColor=181D31) 
 ![Numpy](https://img.shields.io/badge/Numpy-900C3F?style=for-the-badge&logo=numpy&logoColor=181D31) 
 ![Pandas](https://img.shields.io/badge/Pandas-678983?style=for-the-badge&logo=pandas&logoColor=181D31) 
 ![Seaborn](https://img.shields.io/badge/seaborn-00909E?style=for-the-badge&logo=seaborn&logoColor=181D31) 
