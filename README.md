@@ -10,10 +10,10 @@
 <p>
 Hi!
 I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My interests mainly lie in <br>
-1. Web Development
-2. Data Engineering
-3. User Experience
-4. Product Management
+- Web Development<br>
+- Data Engineering<br>
+- User Experience<br>
+- Product Management<br>
 
 </p>
 <br>
