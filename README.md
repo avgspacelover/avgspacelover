@@ -75,10 +75,10 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 
-![](https://komarev.com/ghpvc/?username=believeInJha)
 
-<h2 align="center">My name is Apurv Jha 👋</h2>
 
+
+<!--
 <p align='center'>
 <a href="https://twitter.com/believeInJha"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/apurv-jha/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -87,9 +87,11 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 <a href="https://www.buymeacoffee.com/believeInJha"><img height="40" src="icons/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
+-->
 <p align='center'>
+<!--
 <a href="https://stackexchange.com/users/17379563/apurv-jha"><img src="https://stackexchange.com/users/flair/17379563.png?theme=dark" width="208" height="58" alt="profile for Apurv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aourv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
+-->
 <h2 align="center">Languages and Tools:</h2>
 <p align='center'>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -102,13 +104,13 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 <br/>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=believeInJha&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=antariksh17&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=believeInJha&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=believeInJha&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=antariksh17&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=antariksh17&theme=prussian&hide_border=true" />
 </p>
 <br>
 
