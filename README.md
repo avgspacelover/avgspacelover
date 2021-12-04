@@ -36,7 +36,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 
 
-### 💻 Web Development Technologies
+### 🌐 Web Development Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,8 +46,8 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
-![Redux](https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=redux&logoColor=white)
-![Router](https://img.shields.io/badge/Router-FFF7AE?style=for-the-badge&logo=reactrouter&logoColor=297F87)
+![Redux](https://img.shields.io/badge/Redux-B61919?style=for-the-badge&logo=redux&logoColor=white)
+![Router](https://img.shields.io/badge/Router-FFF7AE?style=for-the-badge&logo=react%20router&logoColor=297F87)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-FFC286?style=for-the-badge&logo=expressdotjs&logoColor=3366cc)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -55,7 +55,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 ![REST](https://img.shields.io/badge/REST-563D7C?style=for-the-badge&logo=restapi&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/GraphQl-563D7C?style=for-the-badge&logo=graphql&logoColor=white)
-![Context](https://img.shields.io/badge/Context-563D7C?style=for-the-badge&logo=context&logoColor=white)
+![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-563D7C?style=for-the-badge&logo=swr&logoColor=white)
 
 
@@ -64,7 +64,23 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 
 
-### 🧑🏻‍💻 Tools & Platform
+### 🧑🏻‍💻 Data & Database technologies
+
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
