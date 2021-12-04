@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/Twitter%20header.png" alt="cover" />
 </div>
 
-<h1> Hello Geeks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antariksh17.antariksh17) -->
