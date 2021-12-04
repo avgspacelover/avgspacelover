@@ -23,7 +23,7 @@ I am a 21' Mechanical engineering graduate who pivoted to Computer science out o
 <p>
 I am trying and have tried to tangentially show my expertise and skills in my interested technologies by breaking down my efforts into pure metrics.
 You can take a look at my <a href="#profile">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
- Alternatively you can also take a look at my complete <strong><a href="" >social profile</a> & <a href=""> Resume</a>.</strong>
+ Alternatively you can also take a look at my complete <strong><a href="http://liinks.co/antariksh" >social profile</a> & <a href=""> Resume</a>.</strong>
  </p>
 
 </div>
@@ -218,7 +218,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Leetcode </h4>
 
- Target |  COmpleted 
+ Target |  Completed 
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
