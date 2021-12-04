@@ -9,7 +9,7 @@
 <div align='center' size='20px'>
 <p>
 Hi!
-I am a 21' Mechanical engineering gradute who pivoted to Computer science out of pure interest. My intersts mainly lie in
+I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My intersts mainly lie in
 - Web Development
 - Data Engineering
 - User Experience
@@ -132,33 +132,99 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 <h2 align='center'> Profile </h2>
 <hr>
 
-### Projects
-<h4 align='center'> Web Development </h4>
+<h3 align="center"> Projects </h3>
 
-<h4 align='center'> Data Engineering </h4>
 
-<h4 align='center'> User Experience </h4>
+<h4 align='left'> Web Development </h4>
 
-### Blogs
-<h4 align='center'> Web Development </h4>
+ Header |  Header |  Header |  Header
+| :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
 
-<h4 align='center'> Data Engineering </h4>
 
-<h4 align='center'> User Experience </h4>
+<h4 align='left'> Data Engineering </h4>
 
-### Open Source
-<h4 align='center'> Web Development </h4>
+ Header |  Header |  Header |  Header
+| :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
 
-<h4 align='center'> Data Engineering </h4>
+<h4 align='left'> User Experience </h4>
 
-<h4 align='center'> User Experience </h4>
+ Header |  Header |  Header |  Header
+| :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
+
+<h3 align="center"> Blogs </h3>
+
+
+<h4 align='left'> Web Development </h4>
+
+ Header |  Header 
+| :---: | :---: |
+Content Cell  | Content Cell 
+Content Cell  | Content Cell 
+
+<h4 align='left'> Data Engineering </h4>
+
+ Header |  Header 
+| :---: | :---: |
+Content Cell  | Content Cell 
+Content Cell  | Content Cell 
+
+<h4 align='left'> User Experience </h4>
+
+ Header |  Header 
+| :---: | :---: |
+Content Cell  | Content Cell 
+Content Cell  | Content Cell 
+
+<h3 align="center"> Open source </h3>
+
+<h4 align='left'> Javascript </h4>
+
+ Header |  Header |  Header |  Header
+| :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
+
+<h4 align='left'> Python </h4>
+
+ Header |  Header |  Header |  Header
+| :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
+
+<h4 align='left'> Golang </h4>
+
+ Header |  Header |  Header |  Header
+| :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
 
 ### Programming
-<h4 align='center'> Web Development </h4>
+<h4 align='left'> Leetcode </h4>
 
-<h4 align='center'> Data Engineering </h4>
+ Header |  Header 
+| :---: | :---: |
+Content Cell  | Content Cell 
+Content Cell  | Content Cell 
 
-<h4 align='center'> User Experience </h4>
+<h4 align='left'> Codewars </h4>
+
+ Header |  Header 
+| :---: | :---: |
+Content Cell  | Content Cell 
+Content Cell  | Content Cell 
+
+<h4 align='left'> CodeForces </h4>
+
+ Header |  Header 
+| :---: | :---: |
+Content Cell  | Content Cell 
+Content Cell  | Content Cell 
 
 
 
