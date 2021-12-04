@@ -46,17 +46,17 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
-![Redux](https://img.shields.io/badge/Redux-B61919?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-2F5D62?style=for-the-badge&logo=redux&logoColor=white)
 ![Router](https://img.shields.io/badge/Router-FFF7AE?style=for-the-badge&logo=react%20router&logoColor=297F87)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-FFC286?style=for-the-badge&logo=expressdotjs&logoColor=3366cc)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-![REST](https://img.shields.io/badge/REST-563D7C?style=for-the-badge&logo=restapi&logoColor=white)
-![GraphQl](https://img.shields.io/badge/GraphQl-563D7C?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-47597E?style=for-the-badge&logo=restapi&logoColor=white)
+![GraphQl](https://img.shields.io/badge/GraphQl-055052?style=for-the-badge&logo=graphql&logoColor=white)
 ![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-563D7C?style=for-the-badge&logo=swr&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-A7C4BC?style=for-the-badge&logo=swr&logoColor=white)
 
 
 
