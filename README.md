@@ -18,13 +18,6 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 
-- 🔭 I’m currently working on Private Projects
-
-- 🌱 I’m currently learning Web Development and Data Engineering 
-
-- 👯 I’m looking to collaborate on Projects and Work Opportunities 
-
-- 💬 Talk to me about Web Development, Data engineering, User Experience, Product Management 
 
 
 
@@ -95,7 +88,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![believeInJha snake gif](https://github.com/antariksh17/antariksh17/blob/output/github-contribution-grid-snake.svg)   
+<img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 
 
