@@ -9,7 +9,7 @@
 <div align='center' size='20px'>
 <p>
 Hi!
-I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My intersts mainly lie in
+I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My interests mainly lie in
 - Web Development
 - Data Engineering
 - User Experience
@@ -19,14 +19,15 @@ I am a 21' Mechanical engineering graduate who pivoted to Computer science out o
 <br>
 <p>
 I am trying and have tried to tangentially show my expertise and skills in my interested technologies by breaking down my efforts into pure metrics.
- You can take a look at my <a href="#profile">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
+You can take a look at my <a href="#profile">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
+ Alternatively you can also take a look at my complete <strong> <a href="" >social profile</a> & <a href=""> Resume</a>.</strong>
  </p>
 
 </div>
 
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
+<div align="center">
 ### 🚀 Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -92,6 +93,7 @@ I am trying and have tried to tangentially show my expertise and skills in my in
 ![Jira](https://img.shields.io/badge/Jira-00909E?style=for-the-badge&logo=jira&logoColor=181D31) 
 ![bitbucket](https://img.shields.io/badge/BitBucket-064420?style=for-the-badge&logo=Bitbucket&logoColor=181D31) 
 
+</div>
 <!--
 https://simpleicons.org/?q=apache
 
