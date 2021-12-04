@@ -143,7 +143,7 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 
 <h4 align='left'> Web Development </h4>
 
- Header |  Header |  Header |  Header
+ Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
@@ -151,14 +151,14 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Data Engineering </h4>
 
- Header |  Header |  Header |  Header
+ Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> User Experience </h4>
 
- Header |  Header |  Header |  Header
+ Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
@@ -168,45 +168,47 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Web Development </h4>
 
- Header |  Header 
+ Title |  Description 
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
 
 <h4 align='left'> Data Engineering </h4>
 
- Header |  Header 
+ Title |  Description 
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
+
 
 <h4 align='left'> User Experience </h4>
 
- Header |  Header 
+ Title |  Description 
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
+
 
 <h3 align="center"> Open source </h3>
 <hr>
 
 <h4 align='left'> Javascript </h4>
 
- Header |  Header |  Header |  Header
+ Organisation |  Project |  Type |  Description
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Python </h4>
 
- Header |  Header |  Header |  Header
+ Organisation |  Project |  Type |  Description
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Golang </h4>
 
- Header |  Header |  Header |  Header
+ Organisation |  Project |  Type |  Description
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
@@ -216,21 +218,21 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Leetcode </h4>
 
- Header |  Header 
+ Target |  COmpleted 
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
 
 <h4 align='left'> Codewars </h4>
 
- Header |  Header 
+ Target |  Completed
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
 
 <h4 align='left'> CodeForces </h4>
 
- Header |  Header 
+ Target |  Completed 
 | :---: | :---: |
 Content Cell  | Content Cell 
 Content Cell  | Content Cell 
