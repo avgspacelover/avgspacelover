@@ -81,8 +81,8 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![AWS](https://img.shields.io/badge/AWS-975A5E?style=for-the-badge&logo=Amazon%20AWS&logoColor=181D31) 
 ![Docker](https://img.shields.io/badge/Docker-D1DBBD?style=for-the-badge&logo=docker&logoColor=181D31) 
 ![Kafka](https://img.shields.io/badge/Kafka-064420?style=for-the-badge&logo=kafka&logoColor=181D31) 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=spark&logoColor=181D31) 
-![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=hadoop&logoColor=181D31) 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=Apache%20Spark&logoColor=181D31) 
+![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=apache%20hadoop&logoColor=181D31) 
 ![Tableau](https://img.shields.io/badge/Tableau-2BB3C0?style=for-the-badge&logo=tableau&logoColor=181D31) 
 
 
