@@ -40,12 +40,20 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-FBF3E4?style=for-the-badge&logo=sass&logoColor=pink)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-FFC286?style=for-the-badge&logo=expressdotjs&logoColor=3366cc)
+![Redux](https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=redux&logoColor=white)
+![Router](https://img.shields.io/badge/Router-563D7C?style=for-the-badge&logo=router&logoColor=white)
+![REST](https://img.shields.io/badge/REST-563D7C?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQl](https://img.shields.io/badge/GraphQl-563D7C?style=for-the-badge&logo=graphql&logoColor=white)
+![Context](https://img.shields.io/badge/Context-563D7C?style=for-the-badge&logo=context&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-563D7C?style=for-the-badge&logo=swr&logoColor=white)
+
 
 
 
