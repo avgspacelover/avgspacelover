@@ -8,7 +8,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antariksh17.antariksh17) -->
 
 </p>
-<div size='20px'> Hi! My name is Siddharth (Antariksh). Thank You for taking the time to view my GitHub Profile.
+<div align='center' size='20px'> Hi! My name is Siddharth (Antariksh). Thank You for taking the time to view my GitHub Profile.
 I am interested in MERN stack and python and Django for Backend Development. In terms of languages I am trying to become proficient in Javascript, C++ and Python. I am developing nascent interests in UI-UX and Product Management too.  :smile: 
 </div>
 
@@ -28,11 +28,11 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 
 <a href= https://github.com/antariksh17?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
@@ -79,20 +79,8 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 
 
-<!--
-<p align='center'>
-<a href="https://twitter.com/believeInJha"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/apurv-jha/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@believeInJha"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/apurv.18/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/believeInJha"><img height="40" src="icons/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 
-</p>
--->
-<p align='center'>
-<!--
-<a href="https://stackexchange.com/users/17379563/apurv-jha"><img src="https://stackexchange.com/users/flair/17379563.png?theme=dark" width="208" height="58" alt="profile for Apurv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aourv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
--->
+
 <h2 align="center">Languages and Tools:</h2>
 <p align='center'>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -101,7 +89,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-
+</p>
 
 <br/>
 
@@ -118,9 +106,8 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ## Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![believeInJha snake gif](https://github.com/believeInJha/believeInJha/blob/output/github-contribution-grid-snake.svg)   
+![believeInJha snake gif](https://github.com/antariksh17/antariksh17/blob/output/github-contribution-grid-snake.svg)   
 
-### Show some ❤️ by starring some of the repositories!
 
 
 
