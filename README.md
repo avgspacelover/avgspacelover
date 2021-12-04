@@ -58,13 +58,13 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-A7C4BC?style=for-the-badge&logo=swr&logoColor=white)
 
+### ✏️ Design Technologies
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![balasamic](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=balasamic&logoColor=white)
+![Invision](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=invision&logoColor=white)
+![Marvel](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=marvel&logoColor=white)
 
-
-
-
-
-
-### 🧑🏻‍💻 Data & Database technologies
+### 📈 Data & Database Technologies
 
 ![MS Excel](https://img.shields.io/badge/MS_Excel-196B69?style=for-the-badge&logo=microsoft%20excel&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-F95959?style=for-the-badge&logo=mysql&logoColor=181D31) 
@@ -77,17 +77,23 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-975A5E?style=for-the-badge&logo=azure%20data%20factory&logoColor=181D31) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-678983?style=for-the-badge&logo=snowflake&logoColor=181D31) 
 ![Redis](https://img.shields.io/badge/Redis-83142C?style=for-the-badge&logo=redis&logoColor=181D31) 
-![Airflow](https://img.shields.io/badge/Airflow-EF6C35?style=for-the-badge&logo=airflow&logoColor=181D31) 
+![Airflow](https://img.shields.io/badge/Airflow-EF6C35?style=for-the-badge&logo=Apache%20Airflow&logoColor=181D31) 
 ![AWS](https://img.shields.io/badge/AWS-975A5E?style=for-the-badge&logo=Amazon%20AWS&logoColor=181D31) 
 ![Docker](https://img.shields.io/badge/Docker-D1DBBD?style=for-the-badge&logo=docker&logoColor=181D31) 
 ![Kafka](https://img.shields.io/badge/Kafka-064420?style=for-the-badge&logo=kafka&logoColor=181D31) 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=Apache%20Spark&logoColor=181D31) 
-![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=apache%20hadoop&logoColor=181D31) 
+![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=hadoop&logoColor=181D31) 
 ![Tableau](https://img.shields.io/badge/Tableau-2BB3C0?style=for-the-badge&logo=tableau&logoColor=181D31) 
 
 
 
+<!--
+https://simpleicons.org/?q=apache
 
+https://colorhunt.co/palettes/random
+
+https://shields.io/
+-->
 
 
 
@@ -103,7 +109,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 
