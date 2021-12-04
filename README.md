@@ -130,10 +130,10 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 
 
 <h2 align='center'> Profile </h2>
-<hr>
+
 
 <h3 align="center"> Projects </h3>
-
+<hr>
 
 <h4 align='left'> Web Development </h4>
 
@@ -158,7 +158,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h3 align="center"> Blogs </h3>
-
+<hr>
 
 <h4 align='left'> Web Development </h4>
 
@@ -182,6 +182,7 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell 
 
 <h3 align="center"> Open source </h3>
+<hr>
 
 <h4 align='left'> Javascript </h4>
 
@@ -204,7 +205,9 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 
-### Programming
+<h3 align="center"> Programming </h3>
+<hr>
+
 <h4 align='left'> Leetcode </h4>
 
  Header |  Header 
