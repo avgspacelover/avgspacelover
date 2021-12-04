@@ -9,13 +9,13 @@
 <div align='center' size='20px'>
 <p>
 Hi!
-I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My interests mainly lie in
-<ul>
-* Web Development
-* Data Engineering
-* User Experience
-* Product Management
-</ul>
+I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest.
+* My interests mainly lie in
+  * Web Development
+  * Data Engineering
+  * User Experience
+  * Product Management
+
 </p>
 <br>
 <p>
