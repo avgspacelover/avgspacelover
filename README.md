@@ -132,6 +132,37 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 <h2 align='center'> Profile </h2>
 <hr>
 
+### Projects
+<h4 align='center'> Web Development </h4>
+
+<h4 align='center'> Data Engineering </h4>
+
+<h4 align='center'> User Experience </h4>
+
+### Blogs
+<h4 align='center'> Web Development </h4>
+
+<h4 align='center'> Data Engineering </h4>
+
+<h4 align='center'> User Experience </h4>
+
+### Open Source
+<h4 align='center'> Web Development </h4>
+
+<h4 align='center'> Data Engineering </h4>
+
+<h4 align='center'> User Experience </h4>
+
+### Programming
+<h4 align='center'> Web Development </h4>
+
+<h4 align='center'> Data Engineering </h4>
+
+<h4 align='center'> User Experience </h4>
+
+
+
+
 
 
 
