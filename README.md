@@ -66,10 +66,24 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 ### 🧑🏻‍💻 Data & Database technologies
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
-
-
+![MS Excel](https://img.shields.io/badge/MS_Excel-20232A?style=for-the-badge&logo=microsoft%20excel&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-678983?style=for-the-badge&logo=mysql&logoColor=181D31) 
+![MongoDB](https://img.shields.io/badge/MongoDB-678983?style=for-the-badge&logo=mongodb&logoColor=181D31) 
+![Cassandra](https://img.shields.io/badge/Cassandra-678983?style=for-the-badge&logo=cassandra&logoColor=181D31) 
+![Numpy](https://img.shields.io/badge/Numpy-678983?style=for-the-badge&logo=numpy&logoColor=181D31) 
+![Pandas](https://img.shields.io/badge/Pandas-678983?style=for-the-badge&logo=pandas&logoColor=181D31) 
+![Seaborn](https://img.shields.io/badge/seaborn-678983?style=for-the-badge&logo=seaborn&logoColor=181D31) 
+![ETL](https://img.shields.io/badge/ETL-678983?style=for-the-badge&logo=ETL&logoColor=181D31) 
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-678983?style=for-the-badge&logo=azure%20data%20factory&logoColor=181D31) 
+![Snowflake](https://img.shields.io/badge/Snowflake-678983?style=for-the-badge&logo=snowflake&logoColor=181D31) 
+![Redis](https://img.shields.io/badge/Redis-678983?style=for-the-badge&logo=redis&logoColor=181D31) 
+![Airflow](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
+![AWS](https://img.shields.io/badge/Redis-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
+![Docker](https://img.shields.io/badge/Docker-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
+![Kafka](https://img.shields.io/badge/Kafka-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
+![Apache Spark](https://img.shields.io/badge/Apache Spark-678983?style=for-the-badge&logo=spark&logoColor=181D31) 
+![Hadoop](https://img.shields.io/badge/Hadoop-678983?style=for-the-badge&logo=tableau&logoColor=181D31) 
+![Tableau](https://img.shields.io/badge/Tableau-678983?style=for-the-badge&logo=tableau&logoColor=181D31) 
 
 
 
