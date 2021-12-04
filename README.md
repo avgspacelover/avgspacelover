@@ -19,7 +19,7 @@ I am a 21' Mechanical engineering graduate who pivoted to Computer science out o
 <br>
 <p>
 I am trying and have tried to tangentially show my expertise and skills in my interested technologies by breaking down my efforts into pure metrics.
- You can take a look at my <a href="">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
+ You can take a look at my <a href="#profile">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
  </p>
 
 </div>
@@ -129,7 +129,7 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 <br>
 
 
-<h2 align='center'> Profile </h2>
+<h2 id="profile" align='center'> Profile </h2>
 
 
 <h3 align="center"> Projects </h3>
