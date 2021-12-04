@@ -128,7 +128,9 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 </a> -->
 <br>
 <hr>
-## Profile
+
+<h2 align='center'> Profile </h2>
+<hr>
 
 
 
