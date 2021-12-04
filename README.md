@@ -60,7 +60,7 @@ I am interested in MERN stack and python and Django for Backend Development. In 
 
 ### ✏️ Design Technologies
 ![Figma](https://img.shields.io/badge/Figma-D1DBBD?style=for-the-badge&logo=figma&logoColor=white)
-![balasamic](https://img.shields.io/badge/Balasamic-F24E1E?style=for-the-badge&logo=balasamic&logoColor=white)
+![balasamiq](https://img.shields.io/badge/Balasamiq-F24E1E?style=for-the-badge&logo=balasamic&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-854836?style=for-the-badge&logo=invision&logoColor=white)
 ![Marvel](https://img.shields.io/badge/Marvel-83142C?style=for-the-badge&logo=marvel&logoColor=white)
 
