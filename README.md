@@ -199,6 +199,13 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell 
 
 
+<h4 align='left'> Miscellenous </h4>
+
+ Title |  Description 
+| :---: | :---: |
+<a href="https://antariksh-17.medium.com/made-it-to-college-now-what-967583fb9a0" target="_blank">Made it to college, NOW WHAT?  | Hithchhiker's guide to strive for a succesful career in college
+Content Cell  | Content Cell 
+
 <h3 align="center"> Open source </h3>
 <hr>
 
