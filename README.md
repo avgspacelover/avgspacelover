@@ -169,7 +169,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
  Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
-Neogcamp Portfolio  | Numerous programming assignments and projects in HTML,, CSS, JS and React JS | https://github.com/antariksh17/Neog-Level-Zero | Content Cell
+Neogcamp Portfolio  | Numerous programming assignments and projects in HTML, CSS, JS and React JS | https://github.com/antariksh17/Neog-Level-Zero | https://antariksh-neog-portfolio.netlify.app/ 
 Content Cell  | Content Cell | Content Cell | Content Cell
 
 
