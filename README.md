@@ -149,12 +149,15 @@ src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"/></a>
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell | Content Cell
 
 
 <h4 align='left'> Data Engineering </h4>
 
  Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
+Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell | Content Cell
 
@@ -237,22 +240,21 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
  Target |  Completed 
 | :---: | :---: |
-Content Cell  | Content Cell 
-Content Cell  | Content Cell 
+300 | 0
 
 <h4 align='left'> Codewars </h4>
 
  Target |  Completed
 | :---: | :---: |
-Content Cell  | Content Cell 
-Content Cell  | Content Cell 
+360 Katas  | 04 
+
 
 <h4 align='left'> CodeForces </h4>
 
  Target |  Completed 
 | :---: | :---: |
-Content Cell  | Content Cell 
-Content Cell  | Content Cell 
+120  | 00
+
 
 
 
