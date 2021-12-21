@@ -67,7 +67,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 <br>
 ### ✏️ Design Technologies
 ![Figma](https://img.shields.io/badge/Figma-D1DBBD?style=for-the-badge&logo=figma&logoColor=orange)
-![balasamiq](https://img.shields.io/badge/Balasamiq-F24E1E?style=for-the-badge&logo=balasamiq&logoColor=white)
+![balsamiq](https://img.shields.io/badge/Balsamiq-F24E1E?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Invision](https://img.shields.io/badge/invision-854836?style=for-the-badge&logo=invision&logoColor=white)
 ![Marvel](https://img.shields.io/badge/Marvel-83142C?style=for-the-badge&logo=marvel&logoColor=white)
 <br>
