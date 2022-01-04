@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/Twitter%20header.png" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/twitter%20header.png" alt="cover" />
 </div>
 
 <h1 align='center'>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
