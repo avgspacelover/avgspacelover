@@ -32,7 +32,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 </div>
 <hr>
 <div  align="center">
-Present Commitments:
+ <h2>Present Commitments</h2>
 <ul><strong>
  <li>Full Stack Open 2021</li>
  <li>100Devs Leon</li>
