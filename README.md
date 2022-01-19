@@ -10,25 +10,33 @@
 <p>
 Hi!
 I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My interests mainly lie in <br>
-<strong>
- <div align="left">
-<ul>
+<div align="left">
+ <strong>
+ <ul>
 <li> Web Development </li>
 <li> Data Engineering </li>
 <li> User Experience </li>
 <li> Product Management </li>
  </ul>
-</div>
  </strong>
+</div>
+ 
 </p>
+
 <br>
 <p>
 I am trying and have tried to tangibly show my expertise and skills in my interested technologies by breaking down my efforts into pure metrics.
 You can take a look at my <a href="#profile">profile</a> and refer me to opprtunities available in your network which may compliment my skillset.
- Alternatively you can also take a look at my complete <strong><a href="http://liinks.co/antariksh" >social profile</a> & <a href=""> Resume</a>.</strong>
+<br>Alternatively you can also take a look at my complete <strong><a href="http://liinks.co/antariksh" >social profile</a> & <a href=""> Resume</a>.</strong>
  </p>
-
 </div>
+<hr>
+<div>
+- Present Commitments:
+  - Full Stack Open 2021
+  - 100Devs Leon
+  - Cpp Data structure and Algo
+<div>
 
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
