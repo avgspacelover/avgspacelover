@@ -32,12 +32,14 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 </div>
 <hr>
 <div>
-- Present Commitments:
-  - Full Stack Open 2021
-  - 100Devs Leon
-  - Cpp Data structure and Algo
+Present Commitments:
+<ul>
+ <li>Full Stack Open 2021</li>
+ <li>100Devs Leon</li>
+ <li>Cpp Data structure and Algo</li>
+<ul> 
 <div>
-
+<hr>
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
