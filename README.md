@@ -31,13 +31,13 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
  </p>
 </div>
 <hr>
-<div>
+<div  align="center">
 Present Commitments:
-<ul>
+<ul><strong>
  <li>Full Stack Open 2021</li>
  <li>100Devs Leon</li>
  <li>Cpp Data structure and Algo</li>
-<ul> 
+</strong></ul> 
 <div>
 <hr>
 
