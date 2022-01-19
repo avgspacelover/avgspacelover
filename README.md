@@ -30,7 +30,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 <br>Alternatively you can also take a look at my complete <strong><a href="http://liinks.co/antariksh" >social profile</a> & <a href=""> Resume</a>.</strong>
  </p>
 </div>
-<hr>
+
 <div  align="center">
  <h2>Present Commitments</h2>
 <ul><strong>
@@ -39,7 +39,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
  <li>Cpp Data structure and Algo</li>
 </strong></ul> 
 <div>
-<hr>
+
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
