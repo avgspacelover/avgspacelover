@@ -256,7 +256,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
  Target |  Completed
 | :---: | :---: |
-360 Katas  | 04 
+360 Katas  | 43 
 
 
 <h4 align='left'> CodeForces </h4>
