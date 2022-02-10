@@ -68,8 +68,6 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br>
 ![Express.js](https://img.shields.io/badge/Express.js-FFC286?style=for-the-badge&logo=expressdotjs&logoColor=3366cc)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-
 ![REST](https://img.shields.io/badge/REST-47597E?style=for-the-badge&logo=restapi&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/GraphQl-055052?style=for-the-badge&logo=graphql&logoColor=white)
 ![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
