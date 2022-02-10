@@ -65,7 +65,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 ![Next.js](https://img.shields.io/badge/Next.js-678983?style=for-the-badge&logo=nextdotjs&logoColor=181D31) 
 ![Redux](https://img.shields.io/badge/Redux-2F5D62?style=for-the-badge&logo=redux&logoColor=white)
 ![Router](https://img.shields.io/badge/Router-FFF7AE?style=for-the-badge&logo=react%20router&logoColor=297F87)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br>
 ![Express.js](https://img.shields.io/badge/Express.js-FFC286?style=for-the-badge&logo=expressdotjs&logoColor=3366cc)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -87,17 +87,17 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 ![MySQL](https://img.shields.io/badge/MySQL-F95959?style=for-the-badge&logo=mysql&logoColor=181D31) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-064420?style=for-the-badge&logo=mongodb&logoColor=181D31) 
 ![Cassandra](https://img.shields.io/badge/Cassandra-A9C52F?style=for-the-badge&logo=Apache%20Cassandra&logoColor=181D31) 
-![Numpy](https://img.shields.io/badge/Numpy-900C3F?style=for-the-badge&logo=numpy&logoColor=181D31) 
+![Numpy](https://img.shields.io/badge/Numpy-900C3F?style=for-the-badge&logo=numpy&logoColor=181D31) <br>
 ![Pandas](https://img.shields.io/badge/Pandas-678983?style=for-the-badge&logo=pandas&logoColor=181D31) 
 ![Seaborn](https://img.shields.io/badge/seaborn-00909E?style=for-the-badge&logo=seaborn&logoColor=181D31) 
 ![ETL](https://img.shields.io/badge/ETL-854836?style=for-the-badge&logo=ETL&logoColor=181D31) 
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-975A5E?style=for-the-badge&logo=azure%20data%20factory&logoColor=181D31) 
-![Snowflake](https://img.shields.io/badge/Snowflake-678983?style=for-the-badge&logo=snowflake&logoColor=181D31) 
+![Snowflake](https://img.shields.io/badge/Snowflake-678983?style=for-the-badge&logo=snowflake&logoColor=181D31) <br>
 ![Redis](https://img.shields.io/badge/Redis-83142C?style=for-the-badge&logo=redis&logoColor=181D31) 
 ![Airflow](https://img.shields.io/badge/Airflow-EF6C35?style=for-the-badge&logo=Apache%20Airflow&logoColor=181D31) 
 ![AWS](https://img.shields.io/badge/AWS-975A5E?style=for-the-badge&logo=Amazon%20AWS&logoColor=181D31) 
 ![Docker](https://img.shields.io/badge/Docker-D1DBBD?style=for-the-badge&logo=docker&logoColor=181D31) 
-![Kafka](https://img.shields.io/badge/Kafka-064420?style=for-the-badge&logo=kafka&logoColor=181D31) 
+![Kafka](https://img.shields.io/badge/Kafka-064420?style=for-the-badge&logo=kafka&logoColor=181D31) <br>
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=Apache%20Spark&logoColor=181D31) 
 ![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=hadoop&logoColor=181D31) 
 ![Tableau](https://img.shields.io/badge/Tableau-2BB3C0?style=for-the-badge&logo=tableau&logoColor=181D31) 
