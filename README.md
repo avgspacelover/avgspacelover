@@ -246,15 +246,15 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Leetcode </h4>
 
- Target |  Completed 
-| :---: | :---: |
-300 | 0
+ Target |  Easy | Medium | Hard
+| :---: | :---: | :---: | :---: |
+300 | 0 | 1 | 0
 
 <h4 align='left'> Codewars </h4>
 
  Target |  Completed
 | :---: | :---: |
-360 Katas  | 43 
+360 Katas  | 126
 
 
 <h4 align='left'> CodeForces </h4>
