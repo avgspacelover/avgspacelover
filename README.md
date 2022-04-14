@@ -252,9 +252,9 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Codewars </h4>
 
- Target |  Completed
-| :---: | :---: |
-360 Katas  | 237
+ Target |  Completed | Rank
+| :---: | :---: | :--:
+360 Katas  | 287 | 5 kyu
 
 
 <h4 align='left'> CodeForces </h4>
