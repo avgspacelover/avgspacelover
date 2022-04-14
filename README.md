@@ -181,7 +181,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
  Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
 Neogcamp Portfolio  | Numerous programming assignments and projects in HTML, CSS, JS and React JS | https://github.com/antariksh17/Neog-Level-Zero | https://antariksh-neog-portfolio.netlify.app/ 
-Content Cell  | Content Cell | Content Cell | Content Cell
+Full Stack Open  | Mini exercises & projects in React js, Node js, Mongo DB, GraphQL, Jest, Redux, React Native and Typescript | https://github.com/antariksh17/Full-Stack-Open-Uni-Of-Helsinki | Content Cell
 
 
 <h3 align="center"> Blogs </h3>
