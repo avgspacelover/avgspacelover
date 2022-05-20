@@ -181,7 +181,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
  | Title |  Description |  Repository |  Live Site |
 | :---: | :---: | :---:  | :---: |
 | Neogcamp Portfolio  | Numerous programming assignments and projects in HTML, CSS, JS and React JS | https://github.com/antariksh17/Neog-Level-Zero | https://antariksh-neog-portfolio.netlify.app/ |
-| Full Stack Open  | Mini exercises & projects in React js, Node js, Mongo DB, GraphQL, Jest, Redux, React Native and Typescript | https://github.com/antariksh17/Full-Stack-Open-Uni-Of-Helsinki | Content Cell |
+| Full Stack Open  | Mini exercises & projects in React js, Node js, Mongo DB, GraphQL, Jest, Redux, React Native and Typescript | https://github.com/antariksh17/Full-Stack-Open-Uni-Of-Helsinki https://github.com/antariksh17/FSO-notes-app https://github.com/antariksh17/FSO-phonebook | https://ant-notes-practice.herokuapp.com/ https://ant-phonebook.herokuapp.com/  |
 | React Complete Guide | React Complete Guide | https://github.com/antariksh17/RCG-Projects | https://rcg-antariksh-user-display.netlify.app/    https://rcg-antariksh-react-meals-frontend.netlify.app/    https://rcg-react-meals-antariksh-frontend-db-fetch.netlify.app/    https://rcg-antariksh-quote-forum.netlify.app/ |
 
 
