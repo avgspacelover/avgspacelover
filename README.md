@@ -67,7 +67,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 ![Router](https://img.shields.io/badge/Router-FFF7AE?style=for-the-badge&logo=react%20router&logoColor=297F87)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) <br>
 ![Express.js](https://img.shields.io/badge/Express.js-FFC286?style=for-the-badge&logo=expressdotjs&logoColor=3366cc)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<!--![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 ![REST](https://img.shields.io/badge/REST-47597E?style=for-the-badge&logo=restapi&logoColor=white)
 ![GraphQl](https://img.shields.io/badge/GraphQl-055052?style=for-the-badge&logo=graphql&logoColor=white)
 ![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
@@ -79,33 +79,36 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 
 ![Marvel](https://img.shields.io/badge/Marvel-83142C?style=for-the-badge&logo=marvel&logoColor=white)
 <br>
-### 📈 Data & Database Technologies
+### 📈 Data & Cloud Technologies
 
-![MS Excel](https://img.shields.io/badge/MS_Excel-196B69?style=for-the-badge&logo=microsoft%20excel&logoColor=61DAFB)
+
 ![MySQL](https://img.shields.io/badge/MySQL-F95959?style=for-the-badge&logo=mysql&logoColor=181D31) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-064420?style=for-the-badge&logo=mongodb&logoColor=181D31) 
-![Cassandra](https://img.shields.io/badge/Cassandra-A9C52F?style=for-the-badge&logo=Apache%20Cassandra&logoColor=181D31) 
-![Numpy](https://img.shields.io/badge/Numpy-900C3F?style=for-the-badge&logo=numpy&logoColor=181D31) <br>
+![Redis](https://img.shields.io/badge/Redis-83142C?style=for-the-badge&logo=redis&logoColor=181D31) 
+![AWS](https://img.shields.io/badge/AWS-975A5E?style=for-the-badge&logo=Amazon%20AWS&logoColor=181D31) 
+![Docker](https://img.shields.io/badge/Docker-D1DBBD?style=for-the-badge&logo=docker&logoColor=181D31) 
+<!-- ![MS Excel](https://img.shields.io/badge/MS_Excel-196B69?style=for-the-badge&logo=microsoft%20excel&logoColor=61DAFB)
+![Cassandra](https://img.shields.io/badge/Cassandra-A9C52F?style=for-the-badge&logo=Apache%20Cassandra&logoColor=181D31)
+![Numpy](https://img.shields.io/badge/Numpy-900C3F?style=for-the-badge&logo=numpy&logoColor=181D31) 
 ![Pandas](https://img.shields.io/badge/Pandas-678983?style=for-the-badge&logo=pandas&logoColor=181D31) 
 ![Seaborn](https://img.shields.io/badge/seaborn-00909E?style=for-the-badge&logo=seaborn&logoColor=181D31) 
 ![ETL](https://img.shields.io/badge/ETL-854836?style=for-the-badge&logo=ETL&logoColor=181D31) 
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-975A5E?style=for-the-badge&logo=azure%20data%20factory&logoColor=181D31) 
-![Snowflake](https://img.shields.io/badge/Snowflake-678983?style=for-the-badge&logo=snowflake&logoColor=181D31) <br>
-![Redis](https://img.shields.io/badge/Redis-83142C?style=for-the-badge&logo=redis&logoColor=181D31) 
+![Snowflake](https://img.shields.io/badge/Snowflake-678983?style=for-the-badge&logo=snowflake&logoColor=181D31) 
 ![Airflow](https://img.shields.io/badge/Airflow-EF6C35?style=for-the-badge&logo=Apache%20Airflow&logoColor=181D31) 
-![AWS](https://img.shields.io/badge/AWS-975A5E?style=for-the-badge&logo=Amazon%20AWS&logoColor=181D31) 
-![Docker](https://img.shields.io/badge/Docker-D1DBBD?style=for-the-badge&logo=docker&logoColor=181D31) 
 ![Kafka](https://img.shields.io/badge/Kafka-064420?style=for-the-badge&logo=kafka&logoColor=181D31) <br>
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-678983?style=for-the-badge&logo=Apache%20Spark&logoColor=181D31) 
-![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=hadoop&logoColor=181D31) 
-![Tableau](https://img.shields.io/badge/Tableau-2BB3C0?style=for-the-badge&logo=tableau&logoColor=181D31) 
+![Hadoop](https://img.shields.io/badge/Hadoop-83142C?style=for-the-badge&logo=hadoop&logoColor=181D31) <br> 
+![Tableau](https://img.shields.io/badge/Tableau-2BB3C0?style=for-the-badge&logo=tableau&logoColor=181D31) -->
+
+
 <br>
 ### 🛠️ Workflow Technologies
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-00909E?style=for-the-badge&logo=jira&logoColor=181D31) 
-![bitbucket](https://img.shields.io/badge/BitBucket-064420?style=for-the-badge&logo=Bitbucket&logoColor=181D31) 
+![Netlify](https://img.shields.io/badge/Netlify-064420?style=for-the-badge&logo=Netlify&logoColor=181D31) 
 
 </div>
 <!--
