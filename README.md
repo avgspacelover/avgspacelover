@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/twitter%20header.png" alt="cover" />
 </div>
 
-<h1 align='center'>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align='center'>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px"> </h1>
 
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antariksh17.antariksh17) -->
@@ -41,7 +41,7 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 <div>
 
 
-<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="16px" height="16px" > </h2>
+<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">> </h2>
 <div align="center">
 
 ### 🚀 Languages
@@ -73,13 +73,11 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 ![Context](https://img.shields.io/badge/Context-B61919?style=for-the-badge&logo=context&logoColor=white)
 ![SWR](https://img.shields.io/badge/SWR-A7C4BC?style=for-the-badge&logo=swr&logoColor=white)
 <br>
- 
 ### 🖍️ Design Technologies
 ![Figma](https://img.shields.io/badge/Figma-D1DBBD?style=for-the-badge&logo=figma&logoColor=orange)
 ![balsamiq](https://img.shields.io/badge/Balsamiq-F24E1E?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Marvel](https://img.shields.io/badge/Marvel-83142C?style=for-the-badge&logo=marvel&logoColor=white)
 <br>
- 
 ### 📈 Data & Cloud Technologies
 
 
@@ -129,7 +127,7 @@ https://shields.io/
 -->
 
 <br>
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="16px" height="16px"> </h2>
+<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">> </h2>
 <p align='center' width="200px">
 <a href = 'https://www.linkedin.com/in/antariksh17'> <img margin-left="2px" width = '60px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/antariksh017'> <img margin-left="2px" width = '60px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
