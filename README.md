@@ -187,7 +187,6 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 | React Complete Guide | React Complete Guide | https://github.com/antariksh17/RCG-Projects | https://rcg-antariksh-user-display.netlify.app/    https://rcg-antariksh-react-meals-frontend.netlify.app/    https://rcg-react-meals-antariksh-frontend-db-fetch.netlify.app/ https://rcg-ant-redux-practice.netlify.app/ https://ant-adv-redux-prac.netlify.app/  https://rcg-antariksh-quote-forum.netlify.app/   |
 | Scrimba | Mini exercises & projects in HTML, CSS, Javascript & React js | | Professional Card[https://scrimba.com/scrim/co60e42cd91e2329909e45881] Travel Journal [https://scrimba.com/scrim/coc51422eb70dc89f54f34fca] Meme Generator[https://scrimba.com/scrim/coe5c42c28aea8ef9967e39c3] Tenzies [https://scrimba.com/scrim/co11442d8bf3972f2a67d1a7a] |
 | Contact Manager (react front to back) | Contact manager built using React JS & Bootstrap | https://github.com/antariksh17/react-front-to-back/contact-manager. https://github.com/antariksh17/react-front-to-back/contact-manager-redux | https://react-ftb-contact-manager.netlify.app/ |
-
 | Hotel Reservation Website | Hotel Reservation Website developed using React JS & styled components | https://github.com/antariksh17/hotel-reservation-fcc-smilga | https://antariksh-hotel-reservation.netlify.app/ |
 
 
