@@ -226,6 +226,24 @@ Content Cell  | Content Cell
 <a href="https://antariksh-17.medium.com/made-it-to-college-now-what-967583fb9a0" target="_blank">Made it to college, NOW WHAT?</a> | Hithchiker's guide to strive for a succesful career in college
 Content Cell  | Content Cell 
 
+ 
+<h3 align="center"> Case Studies </h3>
+<hr>
+
+ Title |  Domain | Description | Blog 
+| :---: | :---: | :---: | :---: |
+Content Cell  | Content Cell | Content Cell | Content Cell 
+Content Cell  | Content Cell | Content Cell | Content Cell 
+
+ 
+<h3 align="center"> Hackathons </h3>
+<hr>
+
+ Event Name |  Date | Problem Statement | Solutiom 
+| :---: | :---: | :---: | :---: |
+Content Cell  | Content Cell | Content Cell | Content Cell 
+Content Cell  | Content Cell | Content Cell | Content Cell 
+
 <h3 align="center"> Hackattic Challenges </h3>
 <hr>
 
