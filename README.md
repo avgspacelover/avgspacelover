@@ -191,7 +191,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 | Feedback Application | A mini-app to impliment the crud in Front-End through ReactJs | https://github.com/antariksh17/react-front-to-back/tree/main/feedback-app | - |
 | Github Stalker | A mini-app to search a user in Github and their 10 recent worked on repositories in ReactJs, Daisy-UI theme and Context Api for state management | https://github.com/antariksh17/react-front-to-back/tree/main/github-stalker | https://ant-github-stalker.netlify.app/ |
 | Housing marketplace |  An Application built in ReactJS in the front end and incorporates Firebase's Firestore as a Database; The application lets you put up your real estate for rent/sale , mark them up for discounted prices and also search other's listing | https://github.com/antariksh17/react-front-to-back/tree/main/house-marketplace | https://ant-housing-marketplace.netlify.app/ |
-| Administration Dashboard UI | The frontend UI of an analytics dashboard, gauging metrics in various visualisation formats such as pie,bar,line and geo charts and tabular data representation, forms. React js, MUI, Novi Charts, MUI data grid, full calendar, Accordion, formik | https://github.com/antariksh17/react-front-to-back/tree/main/house-marketplace | https://ant-housing-marketplace.netlify.app/ |
+| Administration Dashboard UI | The frontend UI of an analytics dashboard, gauging metrics in various visualisation formats such as pie,bar,line and geo charts and tabular data representation, forms. React js, MUI, Novi Charts, MUI data grid, full calendar, Accordion, formik | https://github.com/antariksh17/react-dashboard-edRoh | https://ant-admin-dashboard-ui.netlify.app/ |
 
 
 
