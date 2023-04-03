@@ -17,13 +17,8 @@ You can take a look at my <a href="#profile">profile</a> and refer me to opprtun
 </div>
 
 <div  align="center">
- <h2>Present Commitments</h2>
-<ul  align="left"><strong>
- <li>Full Stack Open 2021</li>
- <li>100Devs Leon</li>
- <li>Cpp Data structure and Algo</li>
-</strong></ul> 
-<div>
+
+</div>
 
 
 <h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> </h2>
