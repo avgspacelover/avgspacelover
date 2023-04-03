@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/twitter%20header.png" alt="cover" />
+<!-- <img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/twitter%20header.png" alt="cover" /> -->
 </div>
 
 <h1 align='center'>Introduction <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px"> </h1>
@@ -7,22 +7,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=antariksh17.antariksh17) -->
 <div align='center' size='20px'>
-<p>
-Hi!
-I am a 21' Mechanical engineering graduate who pivoted to Computer science out of pure interest. My interests mainly lie in <br>
-<div align="left">
- <strong>
- <ul>
-<li> Web Development </li>
-<li> Data Engineering </li>
-<li> User Experience </li>
-<li> Product Management </li>
- </ul>
- </strong>
-</div>
- 
-</p>
-
+ breathing, I guess
 <br>
 <p>
 I am trying and have tried to tangibly show my expertise and skills in my interested technologies by breaking down my efforts into pure metrics.
