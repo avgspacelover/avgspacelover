@@ -1,12 +1,3 @@
-<div align="center">
-<!-- <img width="100%" height = "250px" src="https://github.com/antariksh17/images/blob/main/twitter%20header.png" alt="cover" /> -->
-</div>
-
-
-
-<h2 id="profile" align='center'> Profile </h2>
-
-
 <h3 align="center"> Projects </h3>
 <hr>
 
