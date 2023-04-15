@@ -9,6 +9,28 @@ MockMe  | Content Cell | Content Cell | Content Cell
 Roomie  | Content Cell | Content Cell | Content Cell
 CanITag?  | Content Cell | Content Cell | Content Cell
 OpenEd  | Content Cell | Content Cell | Content Cell
+bookExvhange  | Content Cell | Content Cell | Content Cell
+loved,for 50s  | Content Cell | Content Cell | Content Cell
+dilli,unplugged  | Content Cell | Content Cell | Content Cell
+yourWeirdIsMyWeird(movie coord) | Content Cell | Content Cell | Content Cell
+WhereDoesTheTimeGo? (chronograph.io clone)  | Content Cell | Content Cell | Content Cell
+meVsCapitalism(leave maximiser app)[THA]  | Content Cell | Content Cell | Content Cell
+MunchiesPlease?  | Content Cell | Content Cell | Content Cell
+thatsVeryAgileOfYou(trello clone) [THA] | Content Cell | Content Cell | Content Cell
+bibliophile  | Content Cell | Content Cell | Content Cell
+runWithMe  | Content Cell | Content Cell | Content Cell
+BuildBetter(HMS)  | Content Cell | Content Cell | Content Cell
+saveAchair | Content Cell | Content Cell | Content Cell
+discordGotMeJob  | Content Cell | Content Cell | Content Cell
+getMeThatJob(Li crawler ninja trix)  | Content Cell | Content Cell | Content Cell
+doUHaveAPortfolio(dev parody paradise)  | Content Cell | Content Cell | Content Cell
+
+<h4 align='left'> Bots and Integerations </h4>
+
+ Title |  Platform  |  Description |  Repository |  Live Site
+| :---: | :---: | :---: | :---:  | :---:
+handleTicket  | slack<->cutomerTicket | Content Cell | Content Cell | Content Cell
+tbd | discord bot | Content Cell | Content Cell | Content Cell
 
 
 <h4 align='left'> Data Engineering </h4>
@@ -82,9 +104,21 @@ Content Cell  | Content Cell
 
  Title |  Domain | Description | Blog 
 | :---: | :---: | :---: | :---: |
-Content Cell  | Content Cell | Content Cell | Content Cell 
-Content Cell  | Content Cell | Content Cell | Content Cell 
-
+Indian edu startups are a joke  | Content Cell | Content Cell | Content Cell 
+classism in dating  | Content Cell | Content Cell | Content Cell 
+architecture and planning of delhi  | Content Cell | Content Cell | Content Cell 
+drummers in the indie scene  | Content Cell | Content Cell | Content Cell 
+cost of journalism  | Content Cell | Content Cell | Content Cell 
+average metropolitan commuter & subsequent economy | Content Cell | Content Cell | Content Cell 
+earning bread by selling bread,the harvest gold story  | Content Cell | Content Cell | Content Cell 
+the indie in the rock, birth,peak and decline, the fusion of classical  | Content Cell | Content Cell | Content Cell 
+failed musicians are succesful DJ's?  | Content Cell | Content Cell | Content Cell 
+day in the life of a chief editor  | Content Cell | Content Cell | Content Cell 
+should we go clubbing(bird's eye take on the promoter and clubbing industry of metropolitan cities?  | Content Cell | Content Cell | Content Cell 
+failed musicians are succesful DJ's?  | Content Cell | Content Cell | Content Cell 
+indian parenting diaspora  | Content Cell | Content Cell | Content Cell 
+they pay us to tell the time, but we do end up keeping the watch(consulting in india)  | Content Cell | Content Cell | Content Cell 
+14 roles in the startup industry, ins and outs, whys and privileges(final piece) | Content Cell | Content Cell | Content Cell 
  
 <h3 align="center"> Hackathons </h3>
 <hr>
@@ -130,12 +164,16 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 <hr>
 
 <h4 align='left'> Leetcode </h4>
+<p><a href="https://leetcode.com/Antariksh_17/">Profile</a></p>
+<br>
 
  Target |  Easy | Medium | Hard | Total
 | :---: | :---: | :---: | :---: | :--:
 300 | 23 | 20 | 3 | 145
 
 <h4 align='left'> Codewars </h4>
+<p><a href="https://www.codewars.com/users/antariksh17">Profile</a></p>
+<br>
 
  Target |  Completed | Rank
 | :---: | :---: | :--:
@@ -143,6 +181,8 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 
 <h4 align='left'> CodeForces </h4>
+<p><a href="">Profile</a></p>
+<br>
 
  Target |  Completed 
 | :---: | :---: |
