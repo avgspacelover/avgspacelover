@@ -27,7 +27,11 @@ doUHaveAPortfolio(dev parody paradise)  | Content Cell | Content Cell | Content 
 Shopify custom storeFront  | Content Cell | Content Cell | Content Cell
 Shopify theme | Content Cell | Content Cell | Content Cell
 Shopify app | Content Cell | Content Cell | Content Cell
+Design a theme @ <a href="https://themes.gohugo.io/">hugo</a> | Content Cell | Content Cell | Content Cell
 
+
+
+https://themes.gohugo.io/
 
 
 <h4 align='left'> Bots and Integerations </h4>
