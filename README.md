@@ -137,49 +137,57 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 <hr>
 
 <h4> <a href="https://hackattic.com/kata/" target="_blank" > Hackattic </a> </h4>
- Challenge Name |  Solution | Blog
+
+Challenge Name |  Solution | Blog
 | :---: | :---: | :---: |
 | Content Cell | Content Cell | Content Cell
 
 
 <h4> <a href="https://www.frontendmentor.io/" target="_blank" > Frontend Mentor </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 
 <h4> <a href="https://www.frontendpractice.com/" target="_blank" > Frontend Practice </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 
 <h4> <a href="https://www.codewell.cc/" target="_blank" > Codewell </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 
 <h4> <a href="https://devchallenges.io/" target="_blank" > Devchallenges </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 <h4> <a href="https://app.codecrafters.io/tracks" target="_blank" > Codecrafters </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 <h4> <a href="https://build-your-own.org/" target="_blank" > Build Your Own </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 
 <h4> <a href="https://www.reacterry.com/" target="_blank" > Reacterry </a> </h4>
- Challenge Name |  Solution | Blog
-| :---: | :---: | :---: |
-| Content Cell | Content Cell | Content Cell
+
+Challenge Name |  Solution | Blog
+ :---: | :---: | :---: |
+ Content Cell | Content Cell | Content Cell
 
 <h3 align="center"> Open source </h3>
 <hr>
@@ -214,7 +222,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
  Target |  Easy | Medium | Hard | Total
 | :---: | :---: | :---: | :---: | :--:
-300 | 23 | 20 | 3 | 145
+300 | 50 | 104 | 15 | 169
 
 <h4 align='left'> Codewars </h4>
 <p><a href="https://www.codewars.com/users/antariksh17">Profile</a></p>
