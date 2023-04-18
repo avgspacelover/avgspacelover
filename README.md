@@ -24,6 +24,11 @@ saveAchair | Content Cell | Content Cell | Content Cell
 discordGotMeJob  | Content Cell | Content Cell | Content Cell
 getMeThatJob(Li crawler ninja trix)  | Content Cell | Content Cell | Content Cell
 doUHaveAPortfolio(dev parody paradise)  | Content Cell | Content Cell | Content Cell
+Shopify custom storeFront  | Content Cell | Content Cell | Content Cell
+Shopify theme | Content Cell | Content Cell | Content Cell
+Shopify app | Content Cell | Content Cell | Content Cell
+
+
 
 <h4 align='left'> Bots and Integerations </h4>
 
@@ -128,10 +133,50 @@ they pay us to tell the time, but we do end up keeping the watch(consulting in i
 Content Cell  | Content Cell | Content Cell | Content Cell 
 Content Cell  | Content Cell | Content Cell | Content Cell 
 
-<h3 align="center"> Hackattic Challenges </h3>
+<h3 align="center"> Builder Challenges </h3>
 <hr>
 
+<h4> <a href="https://hackattic.com/kata/" target="_blank" > Hackattic </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
 
+
+<h4> <a href="https://www.frontendmentor.io/" target="_blank" > Frontend Mentor </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
+
+
+<h4> <a href="https://www.frontendpractice.com/" target="_blank" > Frontend Practice </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
+
+
+<h4> <a href="https://www.codewell.cc/" target="_blank" > Codewell </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
+
+
+<h4> <a href="https://devchallenges.io/" target="_blank" > Devchallenges </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
+
+<h4> <a href="https://app.codecrafters.io/tracks" target="_blank" > Codecrafters </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
+
+<h4> <a href="https://build-your-own.org/" target="_blank" > Build Your Own </a> </h4>
+ Challenge Name |  Solution | Blog
+| :---: | :---: | :---: |
+| Content Cell | Content Cell | Content Cell
+
+
+<h4> <a href="https://www.reacterry.com/" target="_blank" > Reacterry </a> </h4>
  Challenge Name |  Solution | Blog
 | :---: | :---: | :---: |
 | Content Cell | Content Cell | Content Cell
