@@ -30,10 +30,6 @@ Shopify app | Content Cell | Content Cell | Content Cell
 Design a theme @ <a href="https://themes.gohugo.io/">hugo</a> | Content Cell | Content Cell | Content Cell
 
 
-
-https://themes.gohugo.io/
-
-
 <h4 align='left'> Bots and Integerations </h4>
 
  Title |  Platform  |  Description |  Repository |  Live Site
