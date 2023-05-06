@@ -9,7 +9,7 @@ MockMe  | Content Cell | Content Cell | Content Cell
 Roomie  | Content Cell | Content Cell | Content Cell
 CanITag?  | Content Cell | Content Cell | Content Cell
 OpenEd  | Content Cell | Content Cell | Content Cell
-bookExvhange  | Content Cell | Content Cell | Content Cell
+bookExchange  | Content Cell | Content Cell | Content Cell
 loved,for 50s  | Content Cell | Content Cell | Content Cell
 dilli,unplugged  | Content Cell | Content Cell | Content Cell
 yourWeirdIsMyWeird(movie coord) | Content Cell | Content Cell | Content Cell
@@ -28,6 +28,7 @@ Shopify custom storeFront  | Content Cell | Content Cell | Content Cell
 Shopify theme | Content Cell | Content Cell | Content Cell
 Shopify app | Content Cell | Content Cell | Content Cell
 Design a theme @ <a href="https://themes.gohugo.io/">hugo</a> | Content Cell | Content Cell | Content Cell
+Wordle CLI | Content Cell | Content Cell | Content Cell
 
 
 <h4 align='left'> Bots and Integerations </h4>
