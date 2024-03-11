@@ -229,7 +229,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 <hr>
 
 <h4 align='left'> Leetcode </h4>
-<p><a href="https://leetcode.com/Antariksh_17/">Profile</a></p>
+<p><a href="https://leetcode.com/avgspacelover/">Profile</a></p>
 <br>
 
  Target |  Easy | Medium | Hard | Total
@@ -262,7 +262,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=antariksh17&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=avgspacelover&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
 
 <br>
 <p align="left">
