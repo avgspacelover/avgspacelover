@@ -237,7 +237,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 300 | 50 | 104 | 15 | 169
 
 <h4 align='left'> Codewars </h4>
-<p><a href="https://www.codewars.com/users/antariksh17">Profile</a></p>
+<p><a href="https://www.codewars.com/users/avgspacelover">Profile</a></p>
 <br>
 
  Target |  Completed | Rank
