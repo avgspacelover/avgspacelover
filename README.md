@@ -262,7 +262,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=avgspacelover&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)
+<!--![Github activity graph](https://activity-graph.herokuapp.com/graph?username=avgspacelover&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF) -->
 
 <br>
 <p align="left">
