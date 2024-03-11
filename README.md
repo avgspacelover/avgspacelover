@@ -266,8 +266,8 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <br>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=antariksh17&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=antariksh17&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=avgspacelover&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=avgspacelover&theme=prussian&hide_border=true" />
 </p>
 <br>
 
