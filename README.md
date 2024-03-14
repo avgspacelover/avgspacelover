@@ -204,22 +204,6 @@ Challenge Name |  Solution | Blog
 <h3 align="center"> Open source </h3>
 <hr>
 
-<h4 align='left'> Javascript </h4>
-
- Organisation |  Project |  Type |  Description
-| :---: | :---: | :---:  | :---:
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
-
-<h4 align='left'> Python </h4>
-
- Organisation |  Project |  Type |  Description
-| :---: | :---: | :---:  | :---:
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
-
-<h4 align='left'> Golang </h4>
-
  Organisation |  Project |  Type |  Description
 | :---: | :---: | :---:  | :---:
 Content Cell  | Content Cell | Content Cell | Content Cell
