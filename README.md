@@ -30,7 +30,7 @@ Shopify theme | Content Cell | Content Cell | Content Cell
 Shopify app | Content Cell | Content Cell | Content Cell
 Design a theme @ <a href="https://themes.gohugo.io/">hugo</a> | Content Cell | Content Cell | Content Cell
 Wordle CLI | Content Cell | Content Cell | Content Cell
-
+build your job board vendor, like a pallet_HQ | Content Cell | Content Cell | Content Cell
 
 <h4 align='left'> Bots and Integerations </h4>
 
