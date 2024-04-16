@@ -265,7 +265,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avgspacelover&show_icons=true&locale=en&theme=cobalt" alt="avgspacelover" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhravya&theme=cobalt" alt="dhravya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avgspacelover&theme=cobalt" alt="avgspacelover" /></p>
 </details>
 <img src="https://profile-counter.glitch.me/avgspacelover/count.svg" alt="avgspacelover :: Visitor's Count" />
 
