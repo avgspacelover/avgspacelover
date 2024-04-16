@@ -249,13 +249,27 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <!--![Github activity graph](https://activity-graph.herokuapp.com/graph?username=avgspacelover&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF) -->
 
+
+<!--
 <br>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=avgspacelover&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=avgspacelover&theme=prussian&hide_border=true" />
 </p>
 <br>
+-->
 
+<details>
+  <summary>Github Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgspacelover&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="avgspacelover" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avgspacelover&show_icons=true&locale=en&theme=cobalt" alt="avgspacelover" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhravya&theme=cobalt" alt="dhravya" /></p>
+</details>
+<img src="https://profile-counter.glitch.me/avgspacelover/count.svg" alt="avgspacelover :: Visitor's Count" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avgspacelover" alt="avgspacelover" /></a> </p>
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <!-- <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
