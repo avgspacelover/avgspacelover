@@ -2,7 +2,7 @@
 <h3 align="center"> Projects </h3>
 <hr>
 
-<h4 align='left'> Web Development </h4>
+<h4 align='left'> Full Stack Engineering Products </h4>
 
  Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
@@ -40,24 +40,49 @@ handleTicket  | slack<->cutomerTicket | Content Cell | Content Cell | Content Ce
 tbd | discord bot | Content Cell | Content Cell | Content Cell
 
 
-<h4 align='left'> Data Engineering </h4>
+<h4 align='left'> Data Engineering Products </h4>
 
  Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
+Pipeline Orchestration  | Build a data pipeline to extract, transform, and load data from multiple sources (e.g., databases, APIs, files) into a data warehouse or data lake. Implement data quality checks and monitoring along the pipeline. | Content Cell | Content Cell
+Real-Time streaming | Design and implement a real-time data streaming architecture using technologies like Apache Kafka, Apache Spark Streaming, or Amazon Kinesis. Ingest data from various sources, process it, and store the results in a data store. | Content Cell | Content Cell
+Internal catalogue management  | Develop a data catalog application that allows users to discover, understand, and access the available data assets within an organization. Incorporate metadata management, data lineage, and data governance features.| Content Cell | Content Cell
+distributed computing, recomm. systems  | Create a scalable and fault-tolerant data processing system using a distributed computing framework like Apache Spark or Apache Flink. Implement batch and/or stream processing use cases, such as anomaly detection, predictive modeling, or recommendation systems.| Content Cell | Content Cell
 
-<h4 align='left'> User Experience </h4>
+<h4 align='left'> UI Design/ UX Research Studies </h4>
 
  Title |  Description |  Repository |  Live Site
 | :---: | :---: | :---:  | :---:
-Content Cell  | Content Cell | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell | Content Cell
+beFit  | Design a mobile app interface for a fitness tracking application that focuses on user engagement and motivation. Incorporate intuitive navigation, visually appealing graphics, and interactive elements to enhance the user experience. | Content Cell | Content Cell
+rumPanel  | Create a web-based dashboard for a data analytics platform that provides users with customizable data visualization options, interactive filters, and a user-friendly interface for exploring and analyzing data insights. | Content Cell | Content Cell
+justBuy |Redesign the user interface for an e-commerce website to improve conversion rates and user satisfaction. Implement a clean and modern design, optimize the checkout process, and enhance product discovery through intuitive search and filtering features. | Content Cell | Content Cell
+quickCall? |Conduct user research to understand the pain points and needs of remote workers using collaboration tools. Identify opportunities for improving communication, productivity, and overall user experience in a remote work environment. | Content Cell | Content Cell
+saveMyMoney  |Perform usability testing on a mobile banking app to evaluate the effectiveness of key features like account management, fund transfers, and security measures. Gather feedback from users to identify areas for improvement and enhance the app's usability. | Content Cell | Content Cell
+esssentials  |Conduct a competitive analysis of online grocery delivery services to identify best practices, user preferences, and areas of differentiation. Use the findings to inform the design and features of a new grocery delivery app.| Content Cell | Content Cell
+mediGenie  |Develop a user-centered design for a healthcare telemedicine platform by conducting user research to understand patient and healthcare provider needs, preferences, and pain points. Use the insights gathered to inform the design of an intuitive and accessible interface that enhances the telemedicine experience for all users.| Content Cell | Content Cell
+
+
+<h4 align='left'> Product Management case studies </h4>
+
+ Title |  Description | case study questions |  Blog | 
+| :---: | :---: | :---:  | :---: |
+Product Launch and Growth Strategy  | Launch a new mobile app for a popular e-book subscription service, targeting a competitive market with existing players like Kindle and Audible. | How would you define the target audience and identify their needs and pain points?
+What features would you prioritize in the initial launch, and how would you balance them with the need for a seamless user experience?
+How would you measure the success of the launch, and what metrics would you track to inform future product development and marketing strategies? | Content Cell
+Product Roadmap and Prioritization  |Develop a product roadmap for a B2B software company that offers a suite of tools for project management and collaboration. The company has a large existing customer base, but is facing increasing competition from newer, more agile players. | How would you prioritize features and initiatives across different product lines, balancing the needs of existing customers with the need to stay competitive in the market?
+What data and metrics would you use to inform your prioritization decisions, and how would you communicate the roadmap to stakeholders?
+How would you balance the need for short-term gains with the need for long-term strategic investments in the product? | Content Cell
+ Product-Market Fit and Customer Discovery| Develop a new product for a startup that offers a platform for connecting freelance writers with businesses looking for content creation services. The startup has a small but engaged user base, but is struggling to scale and achieve product-market fit.| How would you define the target market and identify the key pain points and needs of freelance writers and businesses?
+What customer discovery and validation strategies would you use to test assumptions about the market and product, and how would you iterate on the product based on feedback?
+How would you measure the success of the product in achieving product-market fit, and what metrics would you track to inform future development and marketing strategies? | Content Cell
+ Product Analytics and Data-Driven Decision Making |  Analyze the user behavior and retention metrics for a popular online learning platform, which is experiencing high churn rates among new users. |What data and analytics tools would you use to understand user behavior and identify the key drivers of churn?
+How would you use data to inform product decisions, such as identifying areas for improvement in the onboarding process or optimizing the content offerings?
+What metrics would you track to measure the impact of product changes on user retention and overall business outcomes, and how would you use data to inform future product development and marketing strategies?| Content Cell
+
 
 <h4 align='left'> Tutorial Projects </h4>
 
- | Title |  Description |  Repository |  Live Site |
+ | Title |  Description |  Repository | Live Site |
 | :---: | :-------------------: | :---:  | :---: |
 | Neogcamp Portfolio  | Numerous programming assignments and projects in HTML, CSS, JS and React JS | https://github.com/antariksh17/Neog-Level-Zero | https://antariksh-neog-portfolio.netlify.app/ |
 | Full Stack Open  | Mini exercises & projects in React js, Node js, Mongo DB, GraphQL, Jest, Redux, React Native and Typescript | https://github.com/antariksh17/Full-Stack-Open-Uni-Of-Helsinki https://github.com/antariksh17/FSO-notes-app https://github.com/antariksh17/FSO-phonebook | https://ant-notes-practice.herokuapp.com/ https://ant-phonebook.herokuapp.com/  |
@@ -75,7 +100,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 <h3 align="center"> Blogs </h3>
 <hr>
 
-<h4 align='left'> Web Development </h4>
+<h4 align='left'> Full Stack Engineering </h4>
 
  Title |  Description 
 | :---: | :---: |
