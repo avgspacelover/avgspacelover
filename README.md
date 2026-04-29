@@ -296,9 +296,7 @@ Content Cell  | Content Cell | Content Cell | Content Cell
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avgspacelover&theme=cobalt" alt="avgspacelover" /></p>
 </details>
-<img src="https://profile-counter.glitch.me/avgspacelover/count.svg" alt="avgspacelover :: Visitor's Count" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avgspacelover" alt="avgspacelover" /></a> </p>
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <!-- <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
