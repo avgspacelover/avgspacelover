@@ -54,11 +54,6 @@
 | :-- | :-- | :-: |
 | — | — | — |
 
-### Tutorial Projects
-
-| Project | Description | Code | Live |
-| :-- | :-- | :-: | :-: |
-| — | — | — | — |
 
 ---
 
