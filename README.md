@@ -1,13 +1,13 @@
-<h1 align="center">Sid</h1>
+<h1 align="center">Sidharth</h1>
 
 <p align="center">
-  Full-stack builder with a product brain · Delhi NCR
+  existing
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/avgspacelover/"><img src="https://img.shields.io/badge/LeetCode-169-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"></a>
   <a href="https://www.codewars.com/users/avgspacelover"><img src="https://img.shields.io/badge/Codewars-4_kyu-B1361E?style=flat-square&logo=codewars&logoColor=white&labelColor=0d1117" alt="Codewars"></a>
-  <a href="https://antariksh-17.medium.com/"><img src="https://img.shields.io/badge/Medium-Writing-ffffff?style=flat-square&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium"></a>
+  <!-- <a href="https://antariksh-17.medium.com/"><img src="https://img.shields.io/badge/Medium-Writing-ffffff?style=flat-square&logo=medium&logoColor=white&labelColor=0d1117" alt="Medium"></a> -->
 </p>
 
 <p align="center">
